@@ -1,2 +1,2 @@
-# Sistem-Perpustakaan-Menggunakan-PHP
+# Sistem-Perpustakaan-PHP
 Sistem Perpustakaan Berbasis web menggunakan PHP
